@@ -14,6 +14,7 @@
 		4706678C1D1BF38300DB4724 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4706678A1D1BF38300DB4724 /* LaunchScreen.storyboard */; };
 		470667971D1BF38300DB4724 /* Juego_MemoriaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470667961D1BF38300DB4724 /* Juego_MemoriaTests.swift */; };
 		470667A21D1BF38300DB4724 /* Juego_MemoriaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 470667A11D1BF38300DB4724 /* Juego_MemoriaUITests.swift */; };
+		470667B01D1BF41400DB4724 /* Mi juego memoria in Resources */ = {isa = PBXBuildFile; fileRef = 470667AF1D1BF41400DB4724 /* Mi juego memoria */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4706679D1D1BF38300DB4724 /* Juego MemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego MemoriaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		470667A11D1BF38300DB4724 /* Juego_MemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_MemoriaUITests.swift; sourceTree = "<group>"; };
 		470667A31D1BF38300DB4724 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		470667AF1D1BF41400DB4724 /* Mi juego memoria */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Mi juego memoria"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		470667751D1BF38300DB4724 = {
 			isa = PBXGroup;
 			children = (
+				470667AF1D1BF41400DB4724 /* Mi juego memoria */,
 				470667801D1BF38300DB4724 /* Juego Memoria */,
 				470667951D1BF38300DB4724 /* Juego MemoriaTests */,
 				470667A01D1BF38300DB4724 /* Juego MemoriaUITests */,
@@ -230,6 +233,7 @@
 			files = (
 				4706678C1D1BF38300DB4724 /* LaunchScreen.storyboard in Resources */,
 				470667891D1BF38300DB4724 /* Assets.xcassets in Resources */,
+				470667B01D1BF41400DB4724 /* Mi juego memoria in Resources */,
 				470667871D1BF38300DB4724 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
