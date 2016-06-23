@@ -2,7 +2,6 @@
 
 import UIKit
 
-
 var i = 0...100
 
 for numero in i {
