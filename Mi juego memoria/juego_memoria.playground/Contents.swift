@@ -5,14 +5,6 @@ import UIKit
 
 var i = 0...100
 
-
-
-/*for numero in i {
-    print(numero)
-}*/
-
-
-
 for numero in i {
     if (numero % 5) == 0 {
     print(numero, "Bingo!!!")
@@ -26,8 +18,4 @@ for numero in i {
         print(numero, "Viva Swift!!!")
     }
 }
-
-
-
-
 
